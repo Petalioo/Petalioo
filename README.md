@@ -33,7 +33,7 @@
 
 ### 🔭 Current Projects  
 - 🚧 **Building my GitHub profile** – Making it shine! ✨
-- - 🚧 **Building my Personal Portfolio** - IT and Visual Artist Portfolio ✨
+- 🚧 **Building my Personal Portfolio** - IT and Visual Artist Portfolio ✨
 - 🌐 Learning **ReactJS** to create dynamic web apps.✨
 - 📱 Learning  **Android Studio**  **Figma** to create a user friendly android app.✨
 
