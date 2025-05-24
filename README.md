@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome to My GitHub!
 
-<img src="https://github.com/Petalioo/Petalio_Portfolio/blob/main/src/assets/images/readme_banner.png" width="200" align="center"/>
+<img src="https://github.com/Petalioo/Petalio_Portfolio/blob/main/src/assets/images/readme_banner.png" width="500" align="center"/>
 
 **Hello, I'm Petalio John Rey**  
  
