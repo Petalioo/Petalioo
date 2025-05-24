@@ -1,5 +1,7 @@
 # Hi there 👋, Welcome to My GitHub!
 
+<img src="https://github.com/Petalioo/Petalio_Portfolio/blob/main/src/assets/images/jr%20(2).png" width="200" align="center"/>
+
 **Hello, I'm Petalio John Rey**  
  
 
