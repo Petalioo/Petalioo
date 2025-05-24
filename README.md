@@ -1,6 +1,6 @@
 # Hi there 👋, Welcome to My GitHub!
 
-<img src="https://github.com/Petalioo/Petalio_Portfolio/blob/main/src/assets/images/jr%20(2).png" width="200" align="center"/>
+<img src="https://github.com/Petalioo/Petalio_Portfolio/blob/main/src/assets/images/readme_banner.png" width="200" align="center"/>
 
 **Hello, I'm Petalio John Rey**  
  
@@ -26,7 +26,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 **Other Skills:**  
- | 📱 Mobile & Web Development | 🗂️ Project Management  
+ | 📱 Mobile & Web Development | 🗂️ Project Management 
+ 
 
 ---
 
